@@ -1,0 +1,5 @@
+CFKEY=1234
+CFUSER=me@example.com
+CFHOST=foo.example.com
+ZONEID=my_zone_id
+DNSRECID=my_dns_rec_id
